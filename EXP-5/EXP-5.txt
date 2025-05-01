@@ -1,0 +1,15 @@
+
+Inheritance & Polymorphism
+
+1) Write a Java program to demonstrate that a private member of a superclass cannot be accessed directly from a derived class.
+
+2)  Create a Java program with a Player class and derive three subclasses: Cricket_Player, 
+Football_Player, and Hockey_Player. Implement attributes such as name, age, and 
+position, and methods like play() and train() to represent these players.
+
+3) A vehicle manufacturing company produces different types of vehicles, such as cars and motorcycles. The base class Vehicle contains common properties like brand, model, and price. The class Car extends Vehicle by adding attributes like seatingCapacity and fuelType. Further, a subclass ElectricCar extends Car, introducing additional attributes like batteryCapacity and chargingTime. The Motorcycle class extends Vehicle and adds engineCapacity and type (e.g., "Sport", "Cruiser"). Implement this vehicle hierarchy system using multilevel inheritance in Java. Use constructor chaining to initialize attributes efficiently and demonstrate polymorphism by overriding a method displayDetails() in each subclass.
+
+4) Define a Worker class with DailyWorker and SalariedWorker as its subclasses. Each worker has a name and salary rate. Implement a method computePay(int hours) to compute weekly pay. DailyWorker is paid based on the number of days worked (assuming 8 hours per day), whereas SalariedWorker receives a fixed wage for 40 hours per week, regardless of actual hours worked. Use polymorphism to implement this program and test worker salary calculations.
+
+5) You need to design a school management system to illustrate runtime polymorphism in Java. Create a superclass called Person with an abstract method named performDuty(). Next, define two subclasses: Student and Teacher. Each subclass overrides performDuty() in a distinct way, such as printing messages related to studying or teaching.
+In your main class, create an array or list of Person references, then fill it with instances of both Student and Teacher. Finally, iterate through the array and call the performDuty() method on each element to show that the correct subclass implementation is invoked at runtime, even though all references are of the type Person.

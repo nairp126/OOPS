@@ -33,3 +33,7 @@ public class AreaCalculator {
         System.out.println("Area of Triangle (base 4, height 3): " + area(4, 3, true));
     }
 }
+
+// The above code demonstrates the use of method overloading to calculate areas of different shapes.    
+// It includes methods for rectangle, square, circle, and triangle, each with appropriate parameters.
+// The use of boolean flags helps differentiate between square and triangle calculations, ensuring clarity in method usage.

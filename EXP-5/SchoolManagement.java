@@ -51,3 +51,8 @@ public class SchoolManagement {
         }
     }
 }
+
+// The above code demonstrates the use of abstract classes and method overriding in Java.
+// It includes a base class Person with an abstract method performDuty(), which is overridden in the subclasses Student and Teacher.
+// The main method creates an array of Person references, storing both Student and Teacher objects, and calls the performDuty() method on each object. 
+// This showcases polymorphism and dynamic method dispatch, where the method that gets executed is determined at runtime based on the actual object type.

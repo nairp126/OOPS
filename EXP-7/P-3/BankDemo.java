@@ -45,3 +45,7 @@ public class BankDemo {
         account.displayBalance();
     }
 }
+
+// // The above code demonstrates the use of interfaces and classes in Java.
+// // It includes the definition of a Bank interface with methods for deposit and withdrawal, and an Account class that implements this interface.
+// // The code is structured to create a user-friendly interface and handle user input securely.

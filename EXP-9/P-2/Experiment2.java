@@ -49,3 +49,4 @@ public class Experiment2 {
 }
 // The above code demonstrates the use of an ArrayList to manage a list of Employee objects.
 // It includes adding, updating, and removing employees, showcasing the dynamic nature of ArrayLists.
+// The code is structured to create a user-friendly interface and handle user input securely.

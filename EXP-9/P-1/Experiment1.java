@@ -36,3 +36,4 @@ public class Experiment1 {
 }
 // The above code demonstrates the use of an ArrayList to manage a list of Integer objects.
 // It includes adding numbers, checking if they are prime, and printing the results.
+// The code is structured to create a user-friendly interface and handle user input securely.

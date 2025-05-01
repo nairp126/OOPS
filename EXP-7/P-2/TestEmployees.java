@@ -62,3 +62,7 @@ public class TestEmployees {
         developer.displayDetails();
     }
 }
+
+// The above code demonstrates the use of abstract classes and method overriding in Java.
+// It includes the definition of an Employee class with abstract methods calculateSalary() and displayDetails(), and two subclasses Manager and Developer that implement these methods.
+// The use of abstract classes allows for a clean separation of interface and implementation, promoting code reusability and maintainability.

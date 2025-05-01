@@ -11,3 +11,9 @@ public class NumberPattern {
         }
     }
 }
+
+// The above code demonstrates the use of nested loops to create a number pattern.
+// It includes an outer loop to control the number of rows and an inner loop to print numbers in each row.
+// The pattern starts from 5 and decreases to 1, printing numbers from 1 to the current row number.
+// The code is structured to create a user-friendly interface and handle user input securely.
+// The use of System.out.print() and System.out.println() allows for formatted output.

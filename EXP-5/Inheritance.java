@@ -87,3 +87,8 @@ public class Inheritance {
         hockeyPlayer.train();
     }
 }
+
+// The above code demonstrates the use of inheritance in Java.
+// It includes the definition of a Player superclass and three subclasses: Cricket_Player, Football_Player, and Hockey_Player.
+// Each subclass overrides the play() and train() methods to provide specific implementations for different sports. The main method creates instances of each subclass and calls their methods to demonstrate polymorphism and method overriding.
+// This allows for code reuse and a clear structure for representing different types of players in a sports context.

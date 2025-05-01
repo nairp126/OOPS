@@ -49,3 +49,13 @@ public class Employee {
         System.out.println("Total Number of Employees: " + totalEmployees);
     }
 }
+
+// // The above code demonstrates the use of constructors in Java, specifically constructor overloading and encapsulation.
+// // The Employee class has a default constructor that initializes the employeeId, name, department, and salary to default values,
+// // and a parameterized constructor that allows setting these values when creating an Employee object.
+// // The class also includes a static variable totalEmployees to keep track of the number of Employee objects created.
+// // The calculateSalary() method returns the salary of the employee, and the getSalary() method provides access to the private salary variable.
+// // The displayEmployeeInfo() method prints the employee details, and the static method displayTotalEmployees() displays the total number of employees.
+// // The main method demonstrates how to create Employee objects using both constructors and display their details using the displayEmployeeInfo() method.
+// // This showcases the concept of constructor overloading, where multiple constructors with different parameters can be defined in a class.
+// // The default constructor is called when no arguments are passed, while the parameterized constructor is called when specific values are provided.

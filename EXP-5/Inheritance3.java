@@ -90,3 +90,8 @@ public class Inheritance3 {
         motorcycle.displayDetails();
     }
 }
+
+// The above code demonstrates the use of inheritance in Java, where the Vehicle class is the base class and Car, ElectricCar, and Motorcycle are subclasses.
+// It includes constructor chaining, method overriding, and the use of the super keyword to call parent class methods.
+// The main method creates instances of each subclass and calls their displayDetails method to demonstrate polymorphism and method overriding.
+// The output will show the details of each vehicle, including specific attributes for each subclass.

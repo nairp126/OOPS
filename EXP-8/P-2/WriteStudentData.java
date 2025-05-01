@@ -31,3 +31,5 @@ public class WriteStudentData {
 }
 // This code prompts the user to enter student details (name, roll number, and grade) and writes this information to a file named "student.txt". It uses `FileWriter` in append mode to add new entries without overwriting existing data. The `try-catch` block handles any potential `IOException` that may occur during file operations.
 // The `Scanner` class is used to read user input from the console. After writing the data, the program closes the `FileWriter` and the `Scanner` to release system resources.
+// The program is structured to ensure that user input is handled securely and efficiently, and it provides feedback to the user about the success or failure of the file writing operation.
+// The use of `FileWriter` for writing to files is a common practice in Java programming, allowing for easy data persistence.

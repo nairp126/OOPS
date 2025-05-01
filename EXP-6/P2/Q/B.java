@@ -14,3 +14,5 @@ public class B extends A { // Class B extends A to access protected members
         obj2.protectedMethod(); // ✅ Allowed (subclass)
     }
 }
+// The above code demonstrates the use of access modifiers in Java.
+// It includes the definition of a class B that extends class A from package p, showing how access modifiers control visibility and accessibility of class members across packages and subclasses.

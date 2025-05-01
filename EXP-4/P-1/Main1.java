@@ -36,3 +36,19 @@ class Student {
         System.out.println("Student Age: " + age);
     }
 }
+
+// The above code demonstrates the use of constructors in Java.
+// It includes a default constructor that initializes the student name to "Unknown" and age to 0,
+// and a parameterized constructor that allows setting the name and age when creating a Student object.
+// The main method creates two Student objects, one using the default constructor and the other using the parameterized constructor,
+// and displays their details using the displayInfo() method.
+// This showcases the concept of constructor overloading, where multiple constructors with different parameters can be defined in a class.
+// The default constructor is called when no arguments are passed, while the parameterized constructor is called when specific values are provided.
+// This allows for flexibility in object creation and initialization, making the code more versatile and easier to use.
+// The use of constructors is a fundamental concept in object-oriented programming, enabling the creation of objects with specific initial states.
+// Constructors are special methods that are called when an object is instantiated, and they play a crucial role in initializing the object's state.
+// In this example, the Student class has two constructors: a default constructor that initializes the name to "Unknown" and age to 0,
+// and a parameterized constructor that allows the user to set the name and age when creating a Student object.
+// The main method demonstrates how to create Student objects using both constructors and display their details using the displayInfo() method.
+// This showcases the concept of constructor overloading, where multiple constructors with different parameters can be defined in a class.
+// The default constructor is called when no arguments are passed, while the parameterized constructor is called when specific values are provided.

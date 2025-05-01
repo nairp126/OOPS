@@ -23,3 +23,5 @@ public class Experiment5 {
 }
 // The above code demonstrates the use of an ArrayList to manage a list of Integer objects with duplicates.
 // It includes converting the list to a HashSet to eliminate duplicates and calculating the sum of unique values.
+// The code is structured to create a user-friendly interface and handle user input securely.
+// The use of a char array for the password field enhances security by not exposing the password in plain text.

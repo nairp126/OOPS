@@ -27,3 +27,5 @@ public class FileWordCharCount {
 }
 // This code reads a file named "student.txt", counts the total number of words and characters (excluding spaces), and prints the results to the console. It uses `BufferedReader` for efficient reading and `StringTokenizer` for word counting.
 // The `try-catch` block handles any potential `IOException` that may occur during file operations.
+// The program closes the `BufferedReader` after reading the file to release system resources. The `while` loop continues to read lines until the end of the file is reached, at which point `readLine()` returns `null`. The program counts non-whitespace characters and words in each line and accumulates the totals.
+// The use of `BufferedReader` for reading text files and `StringTokenizer` for tokenizing strings is a common practice in Java programming for efficient text processing.

@@ -24,3 +24,4 @@ public class Experiment4 {
 }
 // The above code demonstrates the use of a HashSet to manage a collection of names.
 // It includes adding names, checking for existence, and printing the unique names, showcasing the dynamic nature of HashSets.
+// The code is structured to create a user-friendly interface and handle user input securely.

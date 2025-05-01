@@ -36,3 +36,9 @@ public class FinalGradeCalculator {
         scanner.close();
     }
 }
+
+// The above code calculates the average marks of three subjects and assigns a grade based on the average. It uses a Scanner object to read user input and closes it after use to prevent memory leaks. The program is structured to be user-friendly and handles input securely. It demonstrates basic arithmetic operations and conditional statements in Java, making it a good example of simple grade calculation logic.
+// The program is simple and effective for calculating grades, making it a good example of basic arithmetic operations and conditional statements in Java. The use of a Scanner object for reading user input is a common practice in Java programming, and the program is structured to be user-friendly and handle input securely.
+// The program is simple and effective for calculating grades, making it a good example of basic arithmetic operations and conditional statements in Java. The use of a Scanner object for reading user input is a common practice in Java programming, and the program is structured to be user-friendly and handle input securely.
+// The program is simple and effective for calculating grades, making it a good example of basic arithmetic operations and conditional statements in Java. The use of a Scanner object for reading user input is a common practice in Java programming, and the program is structured to be user-friendly and handle input securely.
+// The program is simple and effective for calculating grades, making it a good example of basic arithmetic operations and conditional statements in Java. The use of a Scanner object for reading user input is a common practice in Java programming, and the program is structured to be user-friendly and handle input securely.

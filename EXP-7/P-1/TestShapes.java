@@ -48,3 +48,6 @@ public class TestShapes {
         circle.calculateArea();
     }
 }
+// The above code demonstrates the use of abstract classes and method overriding in Java.
+// It includes the definition of a Shape class with an abstract method calculateArea(), and two subclasses Rectangle and Circle that implement this method.
+// The use of abstract classes allows for a clean separation of interface and implementation, promoting code reusability and maintainability.

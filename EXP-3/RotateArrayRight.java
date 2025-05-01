@@ -35,3 +35,6 @@ public class RotateArrayRight {
         }
     }
 }
+
+// The above code demonstrates the use of an array to manage a collection of integers.
+// It includes rotating the array to the right by K positions using an efficient reverse technique.

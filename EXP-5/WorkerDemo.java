@@ -49,3 +49,8 @@ public class WorkerDemo {
         w2.computePay(50); // Worked 50 hours, but fixed salary for 40 hours
     }
 }
+
+// The above code demonstrates the use of abstract classes and method overriding in Java.
+// It includes a base class Worker with an abstract method computePay(), which is overridden in the subclasses DailyWorker and SalariedWorker.
+// The main method creates instances of DailyWorker and SalariedWorker, and calls the computePay() method on each object, showcasing polymorphism and dynamic method dispatch.  
+// The computePay() method calculates the salary based on the type of worker and the hours worked, demonstrating how different subclasses can have different implementations of the same method.

@@ -30,3 +30,6 @@ public class TestPlayer {
         player.stop();
     }
 }
+
+// // The above code demonstrates the use of interfaces in Java.
+// // It includes the definition of a Playable interface with methods for play, pause, and stop, and a MusicPlayer class that implements this interface.

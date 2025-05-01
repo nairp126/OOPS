@@ -35,3 +35,6 @@ public class SecondLargest {
         return secondLargest;
     }
 }
+
+// The above code demonstrates the use of an array to manage a collection of integers.
+// It includes finding the second largest element in the array while handling edge cases.

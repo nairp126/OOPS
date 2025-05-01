@@ -1,0 +1,27 @@
+EXPERIMENT – 8
+
+TITLE:  File Handling and IO Streams
+
+
+
+1) Write a Java program that reads a file name from the user and attempts to open and read the file. Define a method readFile() that throws a FileNotFoundException using the throws keyword. In the main method, call this method and handle the exception using a try-catch block. Display an appropriate message if the file is not found. Use a finally block to ensure a message like "File operation attempted" is printed.
+
+
+2)  Write a Java program that takes user input for a student's name, roll number, and grade, and writes this information to a file named student.txt using FileWriter. Ensure the program appends the data to the file if it already exists. Handle any exceptions using try-catch and display an appropriate message if an error occurs.
+Sample File Content: 
+Name: Aman, Roll Number: 120112, Grade: A
+Name: Parul, Roll Number: 120131, Grade: B
+
+
+3)  Write a Java program that reads the contents of a file named student.txt using FileReader and displays the data on the console. Handle FileNotFoundException if the file does not exist and display an appropriate error message. Use a try-catch block for exception handling.
+
+
+
+
+
+
+
+
+4) Write a program that prompts the user for a text file name, opens the file using a FileInputStream (or FileReader), and counts the total number of words and characters (excluding whitespace). Print these counts to the console. Test your program on files with varied content and edge cases (e.g., empty file, file with only whitespace, etc.).
+
+5) Write a class Person with fields like name and age, implementing Serializable. In your main method, create an instance of Person and serialize it to a file (person.txt) using ObjectOutputStream. Then, read it back using ObjectInputStream and confirm that the deserialized object has the same field values.

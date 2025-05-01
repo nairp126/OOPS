@@ -23,3 +23,6 @@ public class RemoveDuplicates {
         System.out.println("Unique Array: " + Arrays.toString(uniqueArr));
     }
 }
+
+// The above code demonstrates the use of a HashSet to manage a collection of integers with duplicates. 
+// It includes adding integers, converting the HashSet to a sorted array, and printing the unique integers.

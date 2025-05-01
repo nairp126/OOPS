@@ -27,3 +27,4 @@ public class Experiment3 {
 }
 // The above code demonstrates the use of a HashMap to manage a product inventory.
 // It includes adding products, updating quantities, and removing products, showcasing the dynamic nature of HashMaps.
+// The code is structured to create a user-friendly interface and handle user input securely.

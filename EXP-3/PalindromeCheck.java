@@ -22,3 +22,9 @@ public class PalindromeCheck {
         }
     }
 }
+
+// The above code checks if a given string is a palindrome. It takes a string input from the user, converts it to uppercase for case-insensitive comparison, reverses the string, and then compares the original and reversed strings. If they are equal, it prints "Palindrome"; otherwise, it prints "Not a Palindrome". The use of StringBuilder for reversing the string is efficient and straightforward.
+// The program uses a Scanner object to read user input and closes it after use to prevent memory leaks. The StringBuilder class is used for efficient string manipulation, particularly for reversing the string.
+// The program is structured to be user-friendly and handles input securely. It also demonstrates the use of string manipulation techniques in Java, such as converting to uppercase and reversing a string using StringBuilder.
+// The program is simple and effective for checking palindromes, making it a good example of basic string handling in Java.
+// The use of StringBuilder for reversing the string is efficient and straightforward. The program is structured to be user-friendly and handles input securely. It also demonstrates the use of string manipulation techniques in Java, such as converting to uppercase and reversing a string using StringBuilder. The program is simple and effective for checking palindromes, making it a good example of basic string handling in Java.
