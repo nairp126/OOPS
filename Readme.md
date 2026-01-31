@@ -93,4 +93,4 @@ We welcome contributions! Please fork the repo and fix it.
 
 ---
 
-*Made with ❤️ by your Java Instructor.*
+*Made with ❤️ by your Fellow Learner.*
