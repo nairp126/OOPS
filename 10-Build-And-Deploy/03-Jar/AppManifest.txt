@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 17.0.7 (Eclipse Adoptium)
+Main-Class: com.javamastery.Main
+Class-Path: lib/slf4j-api.jar lib/logback-classic.jar

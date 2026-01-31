@@ -27,15 +27,19 @@
 graph TD
     A[Start Here] --> B(01 Basics)
     B --> C{02 OOP Fundamentals}
-    C -->|The Core| D[03 Advanced Concepts]
-    C -->|The Toolkit| E[04 Data Structures]
-    D --> F[05 Exception Handling]
-    E --> F
-    F --> G[Build Real Projects]
-    
+    C --> D[03 Advanced Concepts]
+    C --> E[04 Data Structures]
+    D & E --> F[05 Exception Handling]
+    F --> G[06 Modern Java Features]
+    G --> H[07 Testing & Quality]
+    H --> I[08 Concurrency]
+    I --> J[09 Design Patterns]
+    J --> K[10 Build & Deploy]
+    K --> L((Mastery Achieved))
+
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:4px
-    style G fill:#bfb,stroke:#333,stroke-width:2px
+    style L fill:#bfb,stroke:#333,stroke-width:4px
 ```
 
 ---
@@ -51,6 +55,11 @@ Designed to be consumed in order. Each folder contains a detailed **Lesson Plan 
 | 🚀 | **[03-Advanced-Concepts](./03-Advanced-Concepts)** | Packages, File I/O, Serialization, Swing GUI | 🟠 Advanced |
 | 📚 | **[04-Data-Structures](./04-Data-Structures)** | Arrays, ArrayLists, Big O Notation, HashSet | 🟠 Advanced |
 | 🛡️ | **[05-Exception-Handling](./05-Exception-Handling)** | Try-Catch-Finally, Custom Exceptions, Best Practices | 🔴 Expert |
+| 🔮 | **[06-Modern-Java-Features](./06-Modern-Java-Features)** | Records, Switch Expressions, Text Blocks, Sealed Classes | 🟣 Expert |
+| 🧪 | **[07-Testing-And-Quality](./07-Testing-And-Quality)** | JUnit 5, Mockito, SLF4J Mocking | 🔴 Professional |
+| ⚡ | **[08-Concurrency-Performance](./08-Concurrency-Performance)** | Threads, Executors, Async, Virtual Threads (Java 21) | 🔴 Professional |
+| 🏗️ | **[09-Design-Patterns](./09-Design-Patterns)** | Singleton, Factory, Strategy, Adapter | ⚫ Architect |
+| 🚢 | **[10-Build-And-Deploy](./10-Build-And-Deploy)** | Maven, Docker, JAR Manifests | ⚫ Architect |
 
 ---
 
