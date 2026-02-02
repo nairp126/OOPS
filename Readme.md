@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Active_Course-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge)
+![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)
 
 # ☕ Java & OOP Mastery: From Zero to Hero
 
@@ -92,7 +93,7 @@ Designed to be consumed in order. Each folder contains a detailed **Lesson Plan 
 ## 🤝 Contribution
 
 Found a bug? Want to add a new Design Pattern?  
-We welcome contributions! Please fork the repo and fix it.
+We welcome contributions! Please see our **[Contribution Guidelines](CONTRIBUTING.md)** for detailed instructions.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -101,5 +102,11 @@ We welcome contributions! Please fork the repo and fix it.
 5. Open a Pull Request
 
 ---
+
+---
+
+## ⚖️ Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 *Made with ❤️ by your Fellow Learner.*

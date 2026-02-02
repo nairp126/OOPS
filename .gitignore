@@ -1,7 +1,7 @@
-.class
-.exe
-.jar
-.log
-.vscode
-.idea
-.env
+* .class
+* .exe
+* .jar
+* .log
+* .vscode
+* .idea
+* .env
